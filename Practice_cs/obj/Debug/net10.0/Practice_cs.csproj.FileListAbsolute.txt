@@ -1,0 +1,14 @@
+/Users/aryansingh/Documents/DSA/Practice_cs/bin/Debug/net10.0/Practice_cs
+/Users/aryansingh/Documents/DSA/Practice_cs/bin/Debug/net10.0/Practice_cs.deps.json
+/Users/aryansingh/Documents/DSA/Practice_cs/bin/Debug/net10.0/Practice_cs.runtimeconfig.json
+/Users/aryansingh/Documents/DSA/Practice_cs/bin/Debug/net10.0/Practice_cs.dll
+/Users/aryansingh/Documents/DSA/Practice_cs/bin/Debug/net10.0/Practice_cs.pdb
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.AssemblyInfoInputs.cache
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.AssemblyInfo.cs
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.csproj.CoreCompileInputs.cache
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.dll
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/refint/Practice_cs.dll
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.pdb
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.genruntimeconfig.cache
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/ref/Practice_cs.dll
