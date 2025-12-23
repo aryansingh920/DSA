@@ -13,8 +13,9 @@ class Program
 
         //     Console.WriteLine($"{result[0]}, {result[1]}");
 
-        Test();
-        await Example();
+        // Test();
+        // await Example();
+        TsTData();
     }
 
     static async Task Example()
@@ -23,10 +24,6 @@ class Program
         await Task.Delay(2000);
         Console.WriteLine("End");
     }
-
-
-
-
     static void Test()
     {
         int x = 10;
@@ -35,5 +32,15 @@ class Program
         string name = "Aryan";
         Console.WriteLine($"{name} {x} {y} {ok}");
 
+    }
+
+    static void TsTData()
+    {
+        // int[] arr1 = new int[10];
+        int[] arr1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        for (int i=0; i < arr1.Length; i++)
+        {
+            Console.WriteLine(arr1[i]);
+        }
     }
 }

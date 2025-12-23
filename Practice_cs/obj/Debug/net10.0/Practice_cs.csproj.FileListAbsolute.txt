@@ -12,3 +12,4 @@
 /Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.pdb
 /Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.genruntimeconfig.cache
 /Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/ref/Practice_cs.dll
+/Users/aryansingh/Documents/DSA/Practice_cs/obj/Debug/net10.0/Practice_cs.sourcelink.json
